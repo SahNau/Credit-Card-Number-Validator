@@ -5,9 +5,9 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* [Не активируется лицензия приложения при вводе правильного ключа #1](https://github.com/SahNau/KeyValidator/issues/1)
-* [Не активируется лицензия приложения при вводе правильного ключа #2](https://github.com/SahNau/KeyValidator/issues/2)
-* [Активируется лицензия приложения при вводе ключа, который не должен работать #3](https://github.com/SahNau/KeyValidator/issues/3)
+* [Не принимается к оплате номер карты VISA #1](https://github.com/SahNau/Credit-Card-Number-Validator/issues/1)
+* [Не принимается к оплате номер карты Discover #2](https://github.com/SahNau/Credit-Card-Number-Validator/issues/2)
+* [Не принимается к оплате номер карты American Express (AMEX) #3](https://github.com/SahNau/Credit-Card-Number-Validator/issues/3)
 
 ## Описание процесса тестирования
  В процессе тестирования использовались следующие артефакты:
@@ -26,7 +26,6 @@
 * MasterCard: 5284187089118468 Ответ "Result is OK", карта работает
 * MasterCard: 5447770008420901 Ответ "Result is OK", карта работает
 * American Express (AMEX): 374525035093495 Ответ "Result is OK", карта работает
-* American Express (AMEX): 373825222565664 Ответ "Result is OK", карта работает
 
 Тестирование производилось в следующем окружении:
 
