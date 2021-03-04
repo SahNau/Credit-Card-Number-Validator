@@ -5,9 +5,7 @@
 На тестирование затрачено: 1 час
 
 В результате тестирования выявлены следующие дефекты:
-* [Не принимается к оплате номер карты VISA #1](https://github.com/SahNau/Credit-Card-Number-Validator/issues/1)
-* [Не принимается к оплате номер карты Discover #2](https://github.com/SahNau/Credit-Card-Number-Validator/issues/2)
-* [Не принимается к оплате номер карты American Express (AMEX) #3](https://github.com/SahNau/Credit-Card-Number-Validator/issues/3)
+* [Не принимаются номера карт приложением, если количество цифр не равно 16 #4](https://github.com/SahNau/Credit-Card-Number-Validator/issues/4)
 
 ## Описание процесса тестирования
  В процессе тестирования использовались следующие артефакты:
